@@ -1,0 +1,16 @@
+
+/**
+ * Write a description of class Goat here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Goat  extends Producer
+{
+    public Goat(String _name)
+    {
+        super(_name,"anything","neiiigh","milk");
+        
+        
+    }
+}

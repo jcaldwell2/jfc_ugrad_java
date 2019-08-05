@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=numAccounts
+comment0.target=Bank(int)
+comment0.text=\r\n\ Creates\ a\ bank\ that\ can\ have\ up\ to\ numAccounts\ accounts.\r\n
+comment1.params=account
+comment1.target=void\ add(BankAccount)
+comment1.text=\r\n\ Adds\ the\ given\ BankAccount\ to\ the\ bank.\ If\ the\ bank\ is\ full\r\n\ an\ error\ message\ is\ printed\ and\ the\ bank\ is\ unchanged.\r\n\ @param\ account\ The\ account\ to\ add\r\n
+comment2.params=acctNumber
+comment2.target=BankAccount\ find(int)
+comment2.text=\r\n\ Returns\ the\ bank\ account\ with\ the\ given\ account\ number.\r\n\ If\ no\ such\ account\ exists,\ null\ is\ returned.\r\n\ @param\ acctNumber\ The\ account\ number\r\n\ @return\ The\ account\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ bank.\r\n\ The\ format\ is\ one\ account\ per\ line.\r\n
+numComments=4

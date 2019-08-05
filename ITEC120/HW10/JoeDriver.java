@@ -1,0 +1,29 @@
+
+/**
+ * Write a description of class JoeDriver here.
+ * 
+ * @author James Caldwell 
+ * @version November 23, 2014
+ */
+public class JoeDriver
+{
+    public static void main(String[] args)
+    {
+
+        HotDog hotDog = new HotDog(2,"relish, saurkraut","horseradish sauce");
+        Hamburger hamBurg = new Hamburger(4,"lettuce, tomato, bacon, provolone","",2);
+        BigBeef steakAndCheese = new BigBeef(3,"onions, peppers, cheddar cheese","mayonaise","wet");
+        BigHotDog bigDog = new BigHotDog(2,"nacho cheese and chili","");
+        
+        Sandwhich[] sandwhiches = new Sandwhich[]{hotDog,hamBurg,steakAndCheese,bigDog};
+        double total = 0.0;
+       
+       System.out.println("Joe's Sandwhich Shop"); 
+        for(int i = 0;i<sandwhiches.length;i++)
+        {
+            System.out.println(sandwhiches[i].toString());
+            total += sandwhiches[i].calculatePrice();
+    }
+    System.out.println("Order Total: $" + total);
+}
+}

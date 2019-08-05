@@ -1,0 +1,31 @@
+
+/**
+ * Explorer class - used to make an explorer object
+ * 
+ * @author James Caldwell 
+ * @version November 09, 2014
+ */
+public class Explorer
+{
+    // instance variables - replace the example below with your own
+    private String name;
+    private Room room;
+    private Treasure leftPocket;
+    private Treasure rightPocket;
+    
+
+    /**
+     * Constructor for objects of class Explorer
+     */
+    public Explorer(String _name, Room _room, Treasure _leftPocket, Treasure _rightPocket)
+    {
+        // initialise instance variables
+        this.name = _name;
+        this.room = _room;
+        this.leftPocket = _leftPocket;
+        this.rightPocket = _rightPocket;
+    }
+
+
+    
+}

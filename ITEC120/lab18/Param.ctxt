@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=n1\ n2\ n3\ sum\ avg\ a
+comment0.target=void\ passIt(int,\ int,\ int,\ int,\ double,\ int[])
+numComments=1

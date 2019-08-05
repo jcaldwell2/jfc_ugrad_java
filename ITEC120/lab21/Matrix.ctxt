@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rows\ columns
+comment0.target=int[][]\ newMatrix(int,\ int)
+comment1.params=array
+comment1.target=void\ print(int[][])
+comment2.params=array\ upper\ lower
+comment2.target=int[][]\ fill(int[][],\ int,\ int)
+comment3.params=array
+comment3.target=int\ sum(int[][])
+comment4.params=array
+comment4.target=int\ range(int[][])
+comment5.params=array
+comment5.target=int[]\ rowSum(int[][])
+comment6.params=array\ element
+comment6.target=boolean\ isFound(int[][],\ int)
+numComments=7

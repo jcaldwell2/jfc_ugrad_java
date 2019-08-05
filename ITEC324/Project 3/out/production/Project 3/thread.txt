@@ -1,0 +1,3 @@
+What is a thread?
+
+Conceptually, the notion of a thread is not difficult to grasp: it's an independent path of execution through program code. When multiple threads execute, one thread's path through the same code usually differs from the others. For example, suppose one thread executes the byte code equivalent of an if-else statement's if part, while another thread executes the byte code equivalent of the else part. How does the JVM keep track of each thread's execution? The JVM gives each thread its own method-call stack. In addition to tracking the current byte code instruction, the method-call stack tracks local variables, parameters the JVM passes to a method, and the method's return value.

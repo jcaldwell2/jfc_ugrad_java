@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=int\ range(int[])
+comment1.params=nums\ val
+comment1.target=boolean\ isFound(int[],\ int)
+comment2.params=nums\ val
+comment2.target=int\ timesFound(int[],\ int)
+comment3.params=nums
+comment3.target=int[]\ reverse(int[])
+numComments=4

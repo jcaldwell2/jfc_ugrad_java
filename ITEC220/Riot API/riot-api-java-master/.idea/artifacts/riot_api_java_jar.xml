@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="riot-api-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/riot_api_java_jar</output-path>
+    <root id="archive" name="riot-api-java.jar">
+      <element id="module-output" name="riot-api-java" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

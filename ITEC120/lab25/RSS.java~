@@ -1,0 +1,24 @@
+/**
+ * RSS.java -- Recursion, Sorting, and Searching
+ *			   Contains a recursive method to reverse a string
+ *			   and linear search methods isFound and timesFound.
+ *
+ * @author  
+ * @version 
+ */
+public class RSS
+{
+	private int comparisons;
+
+	public RSS()
+	{
+		this.comparisons = 0;
+	}
+
+	public int getComparisons()
+	{
+		return this.comparisons;
+	}
+}
+
+

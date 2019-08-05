@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=initialBalance\ accountNumber
+comment0.target=BankAccount(double,\ int)
+comment0.text=\r\n\ Constructor\r\n\ @param\ initialBalance\ the\ initial\ balance\ of\ the\ BankAccount\r\n\ @param\ accountNumber\ The\ account\ number\ to\ associate\ with\ this\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ BankAccount.\ \ Must\ be\ a\ 5\ digit\ integer.\r\n
+comment1.params=amount
+comment1.target=void\ deposit(double)
+comment1.text=\r\n\ Deposits\ money\ into\ the\ BankAccount\r\n\r\n\ @param\ amount\ the\ amount\ to\ deposit\r\n
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment2.text=\r\n\ Withdraws\ money\ from\ the\ BankAccount\r\n\r\n\ @param\ amount\ the\ amount\ to\ withdraw\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\r\n\ Gets\ the\ current\ balance\ of\ the\ BankAccount\r\n\r\n\ @return\ the\ current\ balance\r\n
+comment4.params=
+comment4.target=int\ getAccountNumber()
+comment4.text=\r\n\ Gets\ the\ account\ number\ of\ the\ BankAccount\r\n\ @return\ the\ account\ number\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ string\ representation\ this\ BankAccount\ in\r\n\ the\ following\ format,\ e.g.\ 12345\ $100.52\ where\ 12345\r\n\ is\ the\ account\ number,\ and\ 100.52\ is\ the\ balance.\r\n
+numComments=6

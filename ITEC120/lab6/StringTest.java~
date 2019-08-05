@@ -1,0 +1,86 @@
+/**
+ * StringTest - testing the String method
+ *
+ * @author  James Caldwell
+ * @version September 09/12/2014
+ */
+ 
+public class StringTest
+{
+
+ public static void main (String[] args)
+ {
+ 	
+ // Testing an empty string, 1 character string, and multiple character string
+ 	
+
+         System.out.println("length");
+
+ 	 int len = -1;
+
+ 	 String s = ""; // empty string
+
+ 	 len = s.length();
+
+ 	 System.out.println("\nexpected: 0 actual: " + len);
+
+ 	 s = "a";
+
+ 	 len = s.length();
+
+ 	 System.out.println("expected: 1 actual: " + len);
+
+ 	 s = "abcde";
+
+ 	 len = s.length();
+
+ 	 System.out.println("expected: 5 actual: " + len);
+ 	 
+ 	 
+// charAt testing
+
+	System.out.println("\nTesting the string \"abcde\"");
+
+	System.out.println("pos 0: " + s.charAt(0));
+
+	System.out.println("pos 1: " + s.charAt(1));
+
+	System.out.println("pos 2: " + s.charAt(2));
+
+	System.out.println("pos 3: " + s.charAt(3));
+
+	System.out.println("pos 4: " + s.charAt(4));
+
+	System.out.println("pos length - 1: "
+
+		+ s.charAt(s.length() - 1));
+ 	 
+// indexOf testing
+
+	s = "abcde";
+
+	System.out.println("\nTesting the string \"abcde\"");
+
+	System.out.println("indexOf c: " + s.indexOf("c", 0));
+
+	System.out.println("indexOf bc: " + s.indexOf("bc", 0));
+ 	 
+// My own indexOf or should be substring?????
+
+ 	 
+ 	 String str1 = "I am Ironman";
+ 	 
+ 	 
+ 	 System.out.println("\nString 1 is: " +  str1);
+ 	 
+ 	 System.out.println("The first character I is at index: " + str1.indexOf("I", 0));
+ 	 
+ 	 System.out.println("The middle character I is at index: " + str1.indexOf("I", 0));
+ 	 
+
+ 	 
+ 	
+ 	 
+ }
+ 
+}

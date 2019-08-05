@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Die()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Die\r\n
+comment1.params=_value
+comment1.target=void\ setValue(int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=int\ roll()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=die
+comment5.target=boolean\ equalsTo(Die)
+comment6.params=die
+comment6.target=int\ compareTo(Die)
+numComments=7

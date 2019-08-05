@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=_name
+comment0.target=Player(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment1.params=_score
+comment1.target=void\ setScore(int)
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=_score
+comment4.target=int\ addToScore(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=_name\ _description\ _value\ _weight
+comment0.target=Treasure(java.lang.String,\ java.lang.String,\ int,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Treasure\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=tObject
+comment2.target=boolean\ equals(Treasure)
+comment3.params=_treasure
+comment3.target=double\ compareTo(Treasure)
+numComments=4

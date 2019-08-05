@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=_numTopping\ _topping\ _condiments
+comment0.target=HotDog(int,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=double\ calculatePrice()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

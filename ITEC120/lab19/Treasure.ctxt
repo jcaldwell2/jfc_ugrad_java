@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=_value\ _name
+comment0.target=Treasure(double,\ java.lang.String)
+comment1.params=
+comment1.target=double\ getVal()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=treasure
+comment3.target=boolean\ equals(Treasure)
+comment4.params=treasure
+comment4.target=double\ compareTo(Treasure)
+numComments=5

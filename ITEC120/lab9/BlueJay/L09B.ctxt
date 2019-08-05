@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=char\ min(java.lang.String)
+comment0.text=\r\n\ min()\ -\ returns\ the\ minimum\ character\ in\ the\ given\ string.\r\n\r\n\ @param\ str\ the\ string\ to\ be\ processed\ \r\n\ @return\ the\ minimum\ character\ in\ the\ given\ string\r\n
+comment1.params=str
+comment1.target=char\ max(java.lang.String)
+comment1.text=\r\n\ max()\ -\ returns\ the\ maximum\ character\ in\ the\ given\ string.\r\n\r\n\ @param\ str\ the\ string\ to\ be\ processed\ \r\n\ @return\ the\ maximum\ character\ in\ the\ given\ string\r\n
+comment2.params=str\ ch
+comment2.target=boolean\ isFound(java.lang.String,\ char)
+comment2.text=\r\n\ isFound()\ -\ answers\ if\ the\ given\ character\ is\ found\ in\ the\ given\ string\r\n\ \r\n\ @param\ str\ the\ string\ to\ processed\r\n\ @param\ ch\ \ the\ character\ to\ be\ found\r\n\ @return\ true\ if\ the\ character\ is\ found,\ false\ if\ not\ found.\r\n
+comment3.params=str\ ch
+comment3.target=int\ timesFound(java.lang.String,\ char)
+comment3.text=\r\n\ timesFound()\ -\ returns\ the\ number\ of\ times\ the\ given\ character\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ appears\ in\ the\ given\ string.\r\n\ \r\n\ @param\ str\ the\ string\ to\ be\ processed\r\n\ @param\ ch\ \ the\ character\ to\ be\ found\r\n\ @return\ the\ number\ of\ times\ the\ given\ character\ is\ found\ \r\n\ \ \ \ \ \ \ \ \ in\ the\ given\ string.\ \r\n
+comment4.params=ch
+comment4.target=boolean\ isVowel(char)
+comment4.text=\r\n\ isVowel()\ -\ answers\ if\ the\ given\ character\ is\ a\ vowel.\r\n\r\n\ @param\ ch\ the\ character\ to\ be\ processed\r\n\ @return\ answers\ if\ the\ given\ character\ is\ a\ vowel.\r\n
+comment5.params=str
+comment5.target=int\ numVowels(java.lang.String)
+comment5.text=\r\n\ numVowels()\ -\ returns\ the\ number\ of\ vowels\ in\ the\ given\ string.\r\n\r\n\ @param\ str\ the\ string\ to\ be\ processed\r\n\ @return\ the\ number\ of\ vowels\ in\ the\ given\ string.\ \r\n
+numComments=6

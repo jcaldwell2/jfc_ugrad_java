@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=_height\ _width\ _depth
+comment0.target=Box(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Box\r\n
+comment1.params=_height
+comment1.target=void\ setHeight(int)
+comment2.params=_width
+comment2.target=void\ setWidth(int)
+comment3.params=_depth
+comment3.target=void\ setDepth(int)
+comment4.params=_full
+comment4.target=void\ setFull(boolean)
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=
+comment7.target=int\ getDepth()
+comment8.params=
+comment8.target=boolean\ getFull()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=treasure
+comment0.target=Treasure\ min(Treasure[])
+comment1.params=treasure
+comment1.target=Treasure\ max(Treasure[])
+comment2.params=treasure\ tObj
+comment2.target=boolean\ isFound(Treasure[],\ Treasure)
+comment3.params=treasure\ tObj
+comment3.target=int\ timesFound(Treasure[],\ Treasure)
+numComments=4

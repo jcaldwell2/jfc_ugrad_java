@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_name\ _eats\ _sounds\ _gives
+comment0.target=Producer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

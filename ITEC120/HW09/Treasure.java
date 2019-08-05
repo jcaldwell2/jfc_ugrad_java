@@ -1,0 +1,45 @@
+
+/**
+ * Treasure class
+ * 
+ * @author James Caldwell 
+ * @version November 09, 2014
+ */
+public class Treasure
+{
+    // instance variables 
+    private String name;
+    private String description;
+    private double weight;
+    private int value;
+
+    /**
+     * Constructor for objects of class Treasure
+     */
+    public Treasure(String _name, String _description,  int _value,double _weight)
+    {
+        this.name = _name;
+        this.description = _description;
+        this.value = _value;
+        this.weight = _weight;
+
+    }
+
+    public String toString()
+    {
+        return this.name + "" + this.description + "" + this.value + "" +this.weight + "";
+
+    }
+
+    public boolean equals(Treasure tObject)
+
+    {
+
+        return this.value == tObject.value && this.weight == tObject.weight;
+    }
+
+    public double compareTo(Treasure _treasure)
+    {
+        return this.value - _treasure.value;   
+    }
+}

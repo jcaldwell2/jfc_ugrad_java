@@ -1,0 +1,40 @@
+
+/**
+ * ItalianBeef extends the Sandwhich class
+ * 
+ * @author James Caldwell 
+ * @version November 23, 2014
+ */
+public class ItalianBeef extends Sandwhich
+{
+    final String TYPE = "Italian Beef";
+    final String SIZE = "regular"; 
+    final double PRICE = 4.00;
+    final double TPRICE = 0.75;
+    protected String wetOrDry;
+   
+    public ItalianBeef(int _numTopping,String _topping, String _condiments,String _wetOrDry)
+    {
+        super(_numTopping,_topping,_condiments);
+        this.wetOrDry = _wetOrDry;
+       
+      
+        
+    }
+
+    public double calculatePrice()
+    {
+        return PRICE + (super.numTopping * TPRICE);
+    }
+
+    public String toString()
+    {
+        if (super.condiments == "")
+        {
+            return SIZE + " " + TYPE +"\n" + "with: " + super.topping +"\nprice: $" + this.calculatePrice();
+        }
+
+        return SIZE + " " + TYPE +"\n" + "with: " + super.topping + " and " + super.condiments + "\n price: $" + this.calculatePrice();
+
+    }
+}

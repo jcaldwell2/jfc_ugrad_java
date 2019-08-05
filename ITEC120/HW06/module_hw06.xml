@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hw06" default="compile.module.hw06">
+  <dirname property="module.hw06.basedir" file="${ant.file.module_hw06}"/>
+  
+  <property name="module.jdk.home.hw06" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hw06" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hw06" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hw06" value="-encoding UTF-8 -source 1.6 ${compiler.args}"/>
+  
+  <property name="hw06.output.dir" value="${module.hw06.basedir}/out/production/HW06"/>
+  <property name="hw06.testoutput.dir" value="${module.hw06.basedir}/out/test/HW06"/>
+  
+  <path id="hw06.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hw06.module.production.classpath">
+    <path refid="${module.jdk.classpath.hw06}"/>
+  </path>
+  
+  <path id="hw06.runtime.production.module.classpath">
+    <pathelement location="${hw06.output.dir}"/>
+  </path>
+  
+  <path id="hw06.module.classpath">
+    <path refid="${module.jdk.classpath.hw06}"/>
+    <pathelement location="${hw06.output.dir}"/>
+  </path>
+  
+  <path id="hw06.runtime.module.classpath">
+    <pathelement location="${hw06.testoutput.dir}"/>
+    <pathelement location="${hw06.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.hw06">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hw06">
+    <patternset refid="excluded.from.module.hw06"/>
+  </patternset>
+  
+  <path id="hw06.module.sourcepath">
+    <dirset dir="${module.hw06.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.hw06" depends="compile.module.hw06.production,compile.module.hw06.tests" description="Compile module HW06"/>
+  
+  <target name="compile.module.hw06.production" depends="register.custom.compilers" description="Compile module HW06; production classes">
+    <mkdir dir="${hw06.output.dir}"/>
+    <javac2 destdir="${hw06.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.hw06}/javac">
+      <compilerarg line="${compiler.args.hw06}"/>
+      <bootclasspath refid="hw06.module.bootclasspath"/>
+      <classpath refid="hw06.module.production.classpath"/>
+      <src refid="hw06.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.hw06"/>
+    </javac2>
+    
+    <copy todir="${hw06.output.dir}">
+      <fileset dir="${module.hw06.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.hw06.tests" depends="register.custom.compilers,compile.module.hw06.production" description="compile module HW06; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.hw06" description="cleanup module">
+    <delete dir="${hw06.output.dir}"/>
+    <delete dir="${hw06.testoutput.dir}"/>
+  </target>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="244.0" y="-136.5">Operator</node>
+    <node x="-192.0" y="-350.0">VendingMachine</node>
+    <node x="-27.0" y="188.5">VMInput</node>
+    <node x="-189.0" y="192.5">UserInterface</node>
+    <node x="582.8214285714286" y="231.0">Snack</node>
+    <node x="-268.0" y="-207.0">VMController</node>
+    <node x="271.0" y="204.0">VMStorageArray</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="VMController" target="VMInput">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="VMStorageArray" target="Snack">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="VMController" target="UserInterface">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="VMController" target="VMStorageArray">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="VendingMachine" target="VMController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="VMController" target="Operator">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="96.5" />
+  <SelectedNodes>
+    <node>VMInput</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

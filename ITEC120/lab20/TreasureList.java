@@ -1,0 +1,91 @@
+
+/**
+ * TeasureList class
+ * 
+ * @author James Caldwell 
+ * @version November 7th,2014
+ */
+public class TreasureList
+{
+    
+    private Treasure[] list;
+    private int numTreasures;
+
+    /**
+     * Constructor for objects of class TreasureList
+     */
+    public TreasureList(int size)
+    {
+
+        this.numTreasures = 0;
+        this.list = new Treasure[size];
+    }
+
+    private boolean isFull ()
+    {
+        if(this.numTreasures == this.list.length)
+            return true;
+
+        return false;
+
+    }
+
+    private boolean isEmpty()
+    {
+
+        if(this.numTreasures == 0 && this.list.length == 0)
+            return true;
+
+        return false;
+
+    }
+
+    private  Treasure[] grow(Treasure[] tArray, int _list)
+    {
+        if(this.list.length <= _list)            
+            return null;
+
+        for(int i = 0; i < tArray.length;i++)
+        {  
+            this.list = new Treasure[_list];
+            this.list[i] = tArray[i];
+        }
+        
+        return  tArray;
+        
+    }
+    
+    public void add(Treasure tObj)
+    {
+        if(this.isFull() == true)
+            this.grow(this.list, this.list.length + 1); 
+            
+        for(int i = 0; i < this.list.length;i++)
+        {
+            if( this.list[i] == null)
+              this.list[i] = tObj;
+              this.numTreasures++;
+        }      
+        
+        
+        
+        
+        
+    }
+    
+    public String toString()
+    {
+        String string = "";
+        
+        for(int i = 0;i<list.length;i++)
+        {
+             //can't figure out how to access private values of the treasure to create a string should
+             // probably do the toString in Treasures class instead 
+            //  string += i + "." + " " + list[i].name + "," + list[i].description + " " + list[i].value + " " + list[i].weight;
+        }
+        
+        return string;
+}
+}
+
+

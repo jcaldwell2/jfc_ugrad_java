@@ -1,0 +1,84 @@
+
+/**
+ * Matrix class - create new 2D arrays
+ * 
+ * @author James Caldwell 
+ * @version November 12th, 2014
+ */
+import java.util.Random;
+public class Matrix
+{
+
+    public int[][] newMatrix(int rows, int columns)
+    {
+        int[][] Matrix = new int[rows][columns];
+        return  Matrix;
+    }
+
+    public void print(int[][] array)
+
+    {
+        for(int j = 0;j<array.length;j++)
+            for(int i = 0;j<array[j].length;i++)
+            {
+                System.out.print(array[j][i]);
+                System.out.print(",");
+        }
+    }
+    
+    public int[][] fill(int[][] array, int upper, int lower)
+    {
+        Random rand = new Random();
+        for(int j = 0;j<array.length;j++)
+            for(int i = 0;j<array[j].length;i++)
+            {array[j][i] = rand.nextInt(upper) + lower;
+            }
+        
+        return array;
+    }
+    
+    
+    public int sum(int[][] array)
+    
+    {
+        int count = 0;
+        for(int j = 0;j<array.length;j++)
+            for(int i = 0;j<array[j].length;i++)
+            {count += array[j][i];
+            }
+                
+        
+        return count;
+    }
+    
+    public int range(int[][] array)
+    
+    {
+        int minVal = array[0][0];
+        int maxVal = array[0][0];
+        for(int j = 0;j<array.length;j++)
+            for(int i = 0;j<array[j].length;i++)
+            {if (array[j][i] < minVal);
+                minVal = array[j][i];
+            }
+         for(int j = 0;j<array.length;j++)
+            for(int i = 0;j<array[j].length;i++)
+            {if (array[j][i] > maxVal);
+                maxVal = array[j][i];
+            }
+        
+        return maxVal-minVal;
+    }
+    
+    public int[] rowSum(int[][] array)
+    
+    {
+        int[] rowSum = new int[array.length];
+        for(int j = 0;j<array.length;j++)
+            for(int i = 0;j<array[j].length;i++)
+            {rowSum[j] += array[j][i];
+            }
+    return rowSum;
+}
+    
+}

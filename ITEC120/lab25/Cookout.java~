@@ -1,0 +1,53 @@
+/**
+ * Cookout.java - Homework 1 Story about a cookout
+ *
+ * @author James Caldwell
+ * @version 31-AUG-2014
+ */
+ public class Cookout
+ {	
+ 	
+ 	public static void main(String[] args)
+ 	{
+ 		
+ 	final double HOTDOG = 0.45;
+ 	final double HAMBURGER = 0.75;
+ 	final double CHICKEN = 1.85;
+ 	final double BUN = 0.25;
+ 	final double CHEESE = 0.10;
+ 	
+ 	System.out.println("Bubba had some friends over for a cookout. He" +
+ 		"bought hot dogs for 45 cents each, hamburgers for 75 cents" +
+ 		"a piece, chicken for $1.85 each, buns for 25 cents each, and" +
+ 		"cheese for 10 cents each." ); 
+ 	
+ 	int smithHotDog = 0;
+ 	int smithBun = 0;
+ 	int smithChicken = 0;
+ 	int smithCheese = 0;
+ 	int smithBurger = 0; 	
+ 	
+ 	System.out.println("The Smith family got their food first." +
+ 		"Billy had two hot dogs with buns,");
+ 		smithBun += 2;
+ 		smithHotDog += 2;
+ 	System.out.println("Judy had a piece of chicken, and Bob had two cheeseburgers" +
+ 		 "and a hot dog, all with buns.");
+ 		 ++smithChicken;
+ 		 smithBun += 3;
+ 		 smithBurger +=2;
+ 		 
+ 		 System.out.println("Totals for the Smith family are shown below. ");
+ 	
+ 	
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		
+ 	}
+ }

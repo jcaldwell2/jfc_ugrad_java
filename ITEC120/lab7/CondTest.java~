@@ -1,0 +1,61 @@
+/**
+*	CondTest - Test Driver for the conditionals method test of the 
+*		Conditionals class
+*	
+*	@author James Caldwell	
+*	@version September 17,2014
+*
+*
+*/ 
+
+
+import java.util.Scanner;
+
+public class CondTest
+
+public static void main (String [] args)
+{
+	
+	
+	final String PASS = “Pass”;
+
+	final String FAIL = “Fail”;
+
+	int testNum = 1;
+
+	char grade;
+
+	String result = “”;
+
+	Conditional condObj = new Conditionals();
+	Scanner scan = new Scanner();
+	
+
+	
+	grade = condObj.letterGrade(95);
+
+	
+	if (grade == ‘A’)
+
+		result = PASS;
+
+	else
+
+		result = FAIL;
+
+	System.out.println(testNum + “: “ + result);
+
+	++testNum;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

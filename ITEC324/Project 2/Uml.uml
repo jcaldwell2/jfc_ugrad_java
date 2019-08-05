@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="655.5" y="237.0">MoveableShape</node>
+    <node x="321.0" y="493.0">ClockShape</node>
+    <node x="578.0" y="709.0">ShapeIcon</node>
+    <node x="536.0" y="488.0">BoatShape</node>
+    <node x="0.0" y="0.0">Gui</node>
+    <node x="766.0" y="467.0">AirplaneShape</node>
+    <node x="-29.0" y="494.0">CarShape</node>
+    <node x="0.0" y="693.0">SubWindow</node>
+    <node x="-152.0" y="369.0">MultiShapeTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MultiShapeTest" target="Gui">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Gui" target="AirplaneShape">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SubWindow" target="ShapeIcon">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="AirplaneShape" target="MoveableShape">
+      <point x="0.0" y="-81.5" />
+      <point x="780.0" y="412.0" />
+      <point x="752.375" y="383.0" />
+      <point x="72.375" y="36.5" />
+    </edge>
+    <edge source="Gui" target="ClockShape">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="CarShape" target="MoveableShape">
+      <point x="0.0" y="-81.5" />
+      <point x="88.0" y="455.0" />
+      <point x="295.625" y="391.0" />
+      <point x="-72.375" y="36.5" />
+    </edge>
+    <edge source="Gui" target="CarShape">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Gui" target="SubWindow">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="ShapeIcon" target="MoveableShape">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Gui" target="BoatShape">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="ClockShape" target="MoveableShape">
+      <point x="0.0" y="-81.5" />
+      <point x="461.0" y="429.0" />
+      <point x="506.875" y="392.0" />
+      <point x="-24.125" y="36.5" />
+    </edge>
+    <edge source="BoatShape" target="MoveableShape">
+      <point x="0.0" y="-81.5" />
+      <point x="649.0" y="426.0" />
+      <point x="652.125" y="397.0" />
+      <point x="24.125" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="407.5" y="59.0" />
+  <SelectedNodes>
+    <node>ShapeIcon</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

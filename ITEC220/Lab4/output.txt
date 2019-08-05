@@ -1,0 +1,111 @@
+Shively Field -1 41.44 -106.82 2017-04-26 05:35:00 no humidity  listed overcast
+Sacramento, Sacramento Executive Airport 15 38.50 -121.50 2017-04-26 04:53:00 no humidity  listed few clouds
+Safford, Safford Municipal Airport 19.4 32.85 -109.63 2017-04-26 04:51:00 no humidity  listed n/a
+Santa Fe, Santa Fe County Municipal Airport 3.9 35.62 -106.10 2017-04-26 04:53:00 no humidity  listed n/a
+San Diego, San Diego International-Lindbergh Field 17.2 32.73 -117.18 2017-04-26 04:51:00 no humidity  listed few clouds
+San Antonio, San Antonio International Airport 23.9 29.53 -98.47 2017-04-26 04:51:00 no humidity  listed overcast
+Savannah, Savannah International Airport 19.4 32.12 -81.20 2017-04-26 04:53:00 no humidity  listed n/a
+Marquette, Sawyer International Airport 9.2 46.35 -87.40 2017-04-26 05:37:00 no humidity  listed scattered clouds
+Staples, Staples Municipal Airport -1 46.37 -94.80 2017-04-26 05:32:00 no humidity  listed overcast
+Santa Barbara, Santa Barbara Municipal Airport 15 34.43 -119.85 2017-04-26 04:53:00 no humidity  listed n/a
+Norton Air Force Base / San Bern 17.7 34.10 -117.23 2017-04-26 05:37:00 no humidity  listed n/a
+Sheboygan, Sheboygan County Memorial Airport 11.7 43.78 -87.85 2017-04-26 04:53:00 no humidity  listed broken clouds
+South Bend, South Bend Regional Airport 19.4 41.70 -86.32 2017-04-26 04:54:00 no humidity  listed n/a
+San Luis Obispo, San Luis Obispo County-Mc Chesney Field 12.8 35.23 -120.63 2017-04-26 04:56:00 no humidity  listed n/a
+Steamboat Springs 0.3 40.52 -106.87 2017-04-26 05:34:00 no humidity  listed scattered clouds
+Salisbury, Salisbury-Ocean City Wicomico County Regional Airport 15 38.33 -75.50 2017-04-26 04:54:00 no humidity  listed overcast
+Merkel Field Sylacauga Municipal Airport 14.2 33.17 -86.30 2017-04-26 05:35:00 no humidity  listed n/a
+Schenectady Airport 9 42.85 -73.92 2017-04-25 15:50:00 no humidity  listed overcast
+Stockton, Stockton Metropolitan Airport 15 37.88 -121.22 2017-04-26 04:55:00 no humidity  listed n/a
+Louisville, Standiford Field 18.3 38.18 -85.73 2017-04-26 04:56:00 no humidity  listed few clouds
+Scottsdale, Scottsdale Airport 24.4 33.62 -111.92 2017-04-26 04:53:00 no humidity  listed n/a
+San Diego, Brown Field Municipal Airport 13.3 32.58 -117.00 2017-04-26 04:53:00 no humidity  listed n/a
+Sidney-Richland 1.1 47.70 -104.20 2017-04-26 04:56:00 no humidity  listed overcast
+Seattle, Seattle-Tacoma International Airport 9.4 47.45 -122.32 2017-04-26 05:03:00 no humidity  listed overcast
+San Diego/El Cajon, Gillespie Field Airport 15 32.82 -116.97 2017-04-26 05:35:00 no humidity  listed n/a
+Selinsgrove, Penn Valley Airport 12.8 40.82 -76.87 2017-04-26 04:53:00 no humidity  listed overcast
+Craig Field / Selma 17 32.35 -86.98 2017-04-26 05:35:00 no humidity  listed n/a
+Stephenville, Clark Field Municipal Airport 22.8 32.22 -98.17 2017-04-26 05:35:00 no humidity  listed overcast
+Sedona Airport 12 34.85 -111.78 2017-04-26 05:35:00 no humidity  listed n/a
+Orlando / Sanford Airport 18.3 28.77 -81.22 2017-04-26 04:53:00 no humidity  listed n/a
+Spokane, Felts Field 6.7 47.68 -117.32 2017-04-26 04:53:00 no humidity  listed n/a
+Sanford, Sanford Regional Airport 6.1 43.38 -70.72 2017-04-26 04:56:00 no humidity  listed overcast
+San Francisco, San Francisco International Airport 13.9 37.62 -122.37 2017-04-26 04:56:00 no humidity  listed few clouds
+Suffolk, Suffolk Municipal Airport 17.8 36.68 -76.60 2017-04-26 05:35:00 no humidity  listed broken clouds
+Pawtucket, North Central State Airport 9 41.92 -71.50 2017-04-26 05:16:00 no humidity  listed overcast
+Springfield, Springfield Regional Airport 18.9 37.23 -93.38 2017-04-26 04:52:00 no humidity  listed scattered clouds
+St. Augustine, St. Augustine Airport 18.9 29.97 -81.32 2017-04-26 04:56:00 no humidity  listed n/a
+Stuttgart, Stuttgart Municipal Airport 22 34.60 -91.57 2017-04-26 05:35:00 no humidity  listed overcast
+St George, St George Municipal Airport 15.6 37.07 -113.58 2017-04-26 04:56:00 no humidity  listed n/a
+Staunton / Shenandoah 11.9 38.27 -78.90 2017-04-26 05:35:00 no humidity  listed scattered clouds
+Shelton, Shelton Sanderson Field 9.4 47.23 -123.13 2017-04-26 05:31:00 no humidity  listed scattered clouds
+Sheridan, Sheridan County Airport 0.6 44.77 -106.97 2017-04-26 04:53:00 no humidity  listed overcast
+Shreveport, Shreveport Regional Airport 23.3 32.45 -93.83 2017-04-26 04:56:00 no humidity  listed few clouds
+REIDSVILLE 10.6 36.43 -79.85 2017-04-26 05:35:00 no humidity  listed overcast
+Sikeston Memorial Municipal Airport 20 36.90 -89.57 2017-04-26 05:35:00 no humidity  listed n/a
+Montague, Siskiyou County Airport 10.6 41.77 -122.47 2017-04-26 04:53:00 no humidity  listed few clouds
+San Jose, San Jose International Airport 14.4 37.37 -121.92 2017-04-26 04:53:00 no humidity  listed few clouds
+St. Johns, St. Johns Industrial Airpark 6.1 34.52 -109.38 2017-04-26 04:54:00 no humidity  listed n/a
+San Angelo, Mathis Field 25 31.37 -100.50 2017-04-26 04:51:00 no humidity  listed n/a
+Fairchild Air Force Base 8 47.62 -117.65 2017-04-26 04:58:00 no humidity  listed n/a
+Kelly Air Force Base 24.1 29.37 -98.57 2017-04-26 04:58:00 no humidity  listed overcast
+Taos, Taos Regional Airport 1 36.45 -105.67 2017-04-26 05:35:00 no humidity  listed n/a
+Storm Lake 4 42.60 -95.22 2017-04-26 05:35:00 no humidity  listed overcast
+Salt Lake City, Salt Lake City International Airport 7.8 40.78 -111.97 2017-04-26 04:54:00 no humidity  listed scattered clouds
+Salem, McNary Field 11.7 44.90 -123.00 2017-04-26 05:46:00 no humidity  listed scattered clouds
+Siloam Springs, Smith Field Airport 21 36.20 -94.47 2017-04-26 05:35:00 no humidity  listed broken clouds
+Los Alamitos U. S. Army Airfield 17.3 33.77 -118.03 2017-04-26 04:58:00 no humidity  listed scattered clouds
+Saranac Lake, Adirondack Regional Airport 9.4 44.40 -74.20 2017-04-26 05:11:00 no humidity  listed scattered clouds
+Salina, Salina Municipal Airport 7.8 38.78 -97.65 2017-04-26 04:53:00 no humidity  listed overcast
+Sulphur Springs, Sulphur Springs Municipal Airport 23.5 33.17 -95.62 2017-04-26 05:35:00 no humidity  listed n/a
+Somerset, Somerset-Pulaski County - J.T. Wilson Field Airport 11 37.05 -84.62 2017-04-26 05:35:00 no humidity  listed n/a
+Sacramento, Sacramento International Airport 17.2 38.70 -121.60 2017-04-26 04:53:00 no humidity  listed broken clouds
+Salmon, Lemhi County Airport 6 45.12 -113.87 2017-04-26 05:35:00 no humidity  listed n/a
+Santa Monica, Santa Monica Municipal Airport 21.1 34.02 -118.45 2017-04-26 04:51:00 no humidity  listed n/a
+Somerville, Somerset Airport 12.8 40.62 -74.67 2017-04-26 04:53:00 no humidity  listed overcast
+SUMTER 17 34.00 -80.37 2017-04-26 05:35:00 no humidity  listed overcast
+Santa Maria, Santa Maria Public Airport 10.6 34.90 -120.45 2017-04-26 04:51:00 no humidity  listed n/a
+Santa Ana, John Wayne Airport-Orange County Airport 16.7 33.67 -117.87 2017-04-26 04:53:00 no humidity  listed broken clouds
+Chester, Chester Airport 12 41.38 -72.50 2017-04-26 05:35:00 no humidity  listed overcast
+Snyder, Winston Field Airport  32.70 -100.95 2017-04-26 05:35:00 no humidity  listed broken clouds
+Shawnee, Shawnee Municipal Airport 16 35.35 -96.95 2017-04-26 05:35:00 no humidity  listed overcast
+Salinas, Salinas Municipal Airport 13.9 36.67 -121.60 2017-04-26 04:53:00 no humidity  listed n/a
+Stanley, Stanley Ranger Station 0 44.17 -114.93 2017-04-26 04:51:00 no humidity  listed n/a
+Sidney, Sidney Municipal Airport -0.6 41.10 -102.98 2017-04-26 04:53:00 no humidity  listed overcast
+Sonora, Sonora Municipal Airport 25 30.58 -100.65 2017-04-26 05:35:00 no humidity  listed n/a
+Pinehurst/Southern Pines, Moore County Airport 14.4 35.22 -79.40 2017-04-26 04:56:00 no humidity  listed n/a
+Show Low, Show Low Regional Airport 5 34.27 -110.00 2017-04-26 05:35:00 no humidity  listed n/a
+Spartanburg Memorial 16 35.03 -81.93 2017-04-26 05:15:00 no humidity  listed broken clouds
+Sarasota / Bradenton, Sarasota-Bradenton International Airport 21.7 27.40 -82.57 2017-04-26 04:53:00 no humidity  listed scattered clouds
+Ruidoso Regional 4 33.47 -105.52 2017-04-26 05:15:00 no humidity  listed broken clouds
+Shaw Air Force Base 16.6 33.97 -80.47 2017-04-26 04:58:00 no humidity  listed broken clouds
+San Antonio, Stinson Municipal Airport 25 29.33 -98.47 2017-04-26 04:53:00 no humidity  listed overcast
+St Cloud, St Cloud Regional Airport 5.6 45.55 -94.05 2017-04-26 05:39:00 no humidity  listed broken clouds
+STARKVILLE 15 33.43 -88.85 2017-04-26 05:35:00 no humidity  listed n/a
+STERLING 1 40.62 -103.27 2017-04-26 05:30:00 no humidity  listed broken clouds
+St. Louis, Lambert-St. Louis International Airport 22.2 38.75 -90.37 2017-04-26 04:51:00 no humidity  listed few clouds
+St. Paul, St. Paul Downtown Holman Field 11.1 44.93 -93.05 2017-04-26 04:53:00 no humidity  listed overcast
+Santa Rosa, Santa Rosa Sonoma County Airport 13.3 38.50 -122.82 2017-04-26 04:53:00 no humidity  listed overcast
+Stuart, Witham Field Airport 21 27.18 -80.22 2017-04-26 04:35:00 no humidity  listed n/a
+Hailey, Friedman Memorial Airport 6 43.50 -114.28 2017-04-26 05:35:00 no humidity  listed broken clouds
+St. Louis, Spirit Of St. Louis Airport 21.1 38.65 -90.65 2017-04-26 04:54:00 no humidity  listed n/a
+Oak Island, Brunswick County Airport 16.6 33.93 -78.08 2017-04-26 05:40:00 no humidity  listed scattered clouds
+Fairfield / Travis Air Force Base 13.9 38.27 -121.92 2017-04-26 04:58:00 no humidity  listed scattered clouds
+Superior, Richard I. Bong Airport 2.3 46.68 -92.10 2017-04-26 05:35:00 no humidity  listed overcast
+Sioux City, Sioux Gateway Airport 3.3 42.38 -96.38 2017-04-26 05:41:00 no humidity  listed overcast
+Silver City / Grant 13.2 32.63 -108.15 2017-04-26 05:35:00 no humidity  listed n/a
+Susanville Municipal 9 40.37 -120.57 2017-04-26 05:35:00 no humidity  listed scattered clouds
+Statesville, Statesville Municipal Airport 14.5 35.75 -80.95 2017-04-26 05:30:00 no humidity  listed broken clouds
+Newburgh / Stewart 10 41.50 -74.08 2017-04-26 04:45:00 no humidity  listed overcast
+Stillwater, Stillwater Regional Airport 14.4 36.17 -97.08 2017-04-26 04:53:00 no humidity  listed n/a
+Sweetwater, Avenger Field Airport 26.9 32.47 -100.47 2017-04-26 05:35:00 no humidity  listed scattered clouds
+Sexton Summit, 6.1 42.60 -123.37 2017-04-26 04:56:00 no humidity  listed n/a
+Santa Rosa Route 66 Airport 10 34.93 -104.64 2017-04-26 05:15:00 no humidity  listed n/a
+ST FRANCIS 3.1 39.77 -101.80 2017-04-26 05:35:00 no humidity  listed overcast
+SHELBYVILLE 17 35.57 -86.45 2017-04-26 05:35:00 no humidity  listed n/a
+Stanton, Stanton Airfield 12.5 44.48 -93.02 2017-04-26 05:35:00 no humidity  listed broken clouds
+Syracuse, Syracuse Hancock International Airport 10 43.12 -76.10 2017-04-26 04:54:00 no humidity  listed few clouds
+Whiteman Air Force Base 17 38.72 -93.53 2017-04-26 05:44:00 no humidity  listed overcast
+Sandpoint, Sandpoint Airport 6 48.30 -116.57 2017-04-26 05:35:00 no humidity  listed scattered clouds
+The average temperature is 12.85
+The highest temperature was 26.9 and lowest temperature was -1.0

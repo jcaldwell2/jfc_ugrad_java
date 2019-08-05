@@ -1,0 +1,38 @@
+/**
+ * ScanTest.java -- tests some of the methods from the Scanner class.
+ *
+ * @author  Jeff Pittges
+ * @version Jan-2012
+ */
+import java.util.Scanner; 
+
+public class ScanTest
+{
+    public static void main(String[] args)
+    {
+	final String ONE = "A B, C";
+	final String TWO = "abc 123 xyz 21 37";
+	
+	Scanner scan1 = new Scanner(ONE);
+	Scanner scan2 = new Scanner(TWO);
+
+	System.out.println(scan1.next());
+	System.out.println(scan1.next());
+	System.out.println(scan1.next());
+
+	System.out.println(scan2.next());
+	System.out.println(scan2.next());
+	System.out.println(scan2.nextLine());
+
+	scan1 = new Scanner(ONE);
+	scan2 = new Scanner(TWO);
+
+	System.out.println(scan2.next());
+	System.out.println(scan1.next());
+	System.out.println(scan1.nextLine());
+	System.out.println(scan2.nextInt());
+	System.out.println(scan2.next());
+	System.out.println(scan2.nextInt());
+    }
+}
+
